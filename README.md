@@ -3,6 +3,10 @@
 ## install
 
 ```bash
+git submodule init
+git submodule update --init --recursive
+git submodule sync --recursive
+
 python3 -m venv venv
 source ./venv/bin/activate
 pip3 install -r requirements.txt
