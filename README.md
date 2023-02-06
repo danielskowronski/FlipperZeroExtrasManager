@@ -54,3 +54,11 @@ $ python3 update.py
 2023-02-06 22:02:55,185 __main__[11552] INFO	04. installed successfully
 $ 
 ```
+
+## commit updated repos
+
+```bash
+git add repos/ .gitmodules
+git status
+git commit -m "update source repos"
+```

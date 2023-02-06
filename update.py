@@ -229,7 +229,7 @@ if __name__ == "__main__":
 	coloredlogs.set_level("INFO")
 	#coloredlogs.set_level("DEBUG")
 	#coloredlogs.set_level("TRACE")
-	logging.getLogger("git").setLevel(logging.WARN)
+	logging.getLogger("git").setLevel(logging.ERROR)
 
 	update_repos()
 	packagePath = build_pkg()
