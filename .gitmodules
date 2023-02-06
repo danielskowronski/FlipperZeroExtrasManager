@@ -1,0 +1,12 @@
+[submodule "repos/UberGuidoZ_Flipper"]
+	path = repos/UberGuidoZ_Flipper
+	url = https://github.com/UberGuidoZ/Flipper.git
+[submodule "repos/xMasterX_unleashed-extra-pack"]
+	path = repos/xMasterX_unleashed-extra-pack
+	url = https://github.com/xMasterX/unleashed-extra-pack.git
+[submodule "repos/logickworkshop_Flipper-IRDB"]
+	path = repos/logickworkshop_Flipper-IRDB
+	url = https://github.com/logickworkshop/Flipper-IRDB.git
+[submodule "repos/Gioman101_FlipperAmiibo"]
+	path = repos/Gioman101_FlipperAmiibo
+	url = https://github.com/Gioman101/FlipperAmiibo.git
