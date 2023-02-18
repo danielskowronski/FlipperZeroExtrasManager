@@ -17,6 +17,7 @@ pip3 install -r requirements.txt
 ```bash
 source ./venv/bin/activate
 python3 update.py
+dot_clean -m /Volumes/FlipperSD
 ```
 
 ### example

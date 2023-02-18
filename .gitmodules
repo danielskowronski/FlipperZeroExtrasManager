@@ -10,3 +10,6 @@
 [submodule "repos/Gioman101_FlipperAmiibo"]
 	path = repos/Gioman101_FlipperAmiibo
 	url = https://github.com/Gioman101/FlipperAmiibo.git
+[submodule "repos/danielskowronski_flipperzero-dbs-public"]
+	path = repos/danielskowronski_flipperzero-dbs-public
+	url = https://github.com/danielskowronski/flipperzero-dbs-public.git
