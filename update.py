@@ -228,7 +228,7 @@ if __name__ == "__main__":
 	coloredlogs.install(fmt='%(asctime)s,%(msecs)03d %(name)s[%(process)d] %(levelname)s\t%(message)s')
 	coloredlogs.set_level("INFO")
 	#coloredlogs.set_level("DEBUG")
-	#coloredlogs.set_level("TRACE")
+	coloredlogs.set_level("TRACE")
 	logging.getLogger("git").setLevel(logging.ERROR)
 
 	update_repos()

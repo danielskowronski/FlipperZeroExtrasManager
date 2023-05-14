@@ -1,1 +1,8 @@
 Animal_Crossing,nfc/extra/Animal_Crossing,.nfc
+Mario_Sports_Superstars,nfc/extra/Animal_Crossing,.nfc
+Other,nfc/extra/Animal_Crossing,.nfc
+PowerUpBands,nfc/extra/Animal_Crossing,.nfc
+Super_Mario,nfc/extra/Animal_Crossing,.nfc
+Super_Mario_30th,nfc/extra/Animal_Crossing,.nfc
+Super_Mario_Cereal,nfc/extra/Animal_Crossing,.nfc
+Super_Smash_Bros,nfc/extra/Animal_Crossing,.nfc
